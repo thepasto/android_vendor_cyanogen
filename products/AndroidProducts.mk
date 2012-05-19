@@ -49,6 +49,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cyanogen_passion.mk \
     $(LOCAL_DIR)/cyanogen_robyn.mk \
     $(LOCAL_DIR)/cyanogen_saga.mk \
+    $(LOCAL_DIR)/cyanogen_salsa.mk \
     $(LOCAL_DIR)/cyanogen_satsuma.mk \
     $(LOCAL_DIR)/cyanogen_shadow.mk \
     $(LOCAL_DIR)/cyanogen_shakira.mk \
